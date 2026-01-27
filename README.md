@@ -17,15 +17,14 @@
   </a>
 </p>
 
-### 🧐 About Me
+## 🧐 About Me
 
 I am currently a first-year Master's student at the **School of Computer Science and Engineering, Sun Yat-sen University (SYSU)**, and a member of the **[HCP Lab](https://www.sysu-hcp.net/)**, advised by **Prof. [Keze Wang](https://kezewang.com/)**.
 
 🌱 **Status:** I am actively looking for **Research Collaborations** and **Internship Opportunities**. Feel free to reach out!
 
----
 
-### 🎓 Research Interests
+## 🎓 Research Interests
 
 My primary research centers on **Reinforcement Learning for Large Language Models (LLMs)** in real-world environments. 
 
@@ -33,9 +32,8 @@ My primary research centers on **Reinforcement Learning for Large Language Model
 
 Currently, I am focusing on **GUI-Agents** and exploring how agents can interact more effectively with software interfaces.
 
----
 
-### 📝 Selected Publications
+## 📝 Selected Publications
 
 - **[ICASSP 2026] Weather-R1: Logically Consistent Reinforcement Fine-Tuning for Multimodal Reasoning in Meteorology**
   <br> ***Kaiyu Wu**, Pucheng Han, Hualong Zhang, Naigeng Wu, Keze Wang*
@@ -47,17 +45,15 @@ Currently, I am focusing on **GUI-Agents** and exploring how agents can interact
 
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=pwzQQOkAAAAJ).
 
----
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 - **Languages:** Python, C++, Go
 - **Frameworks:** PyTorch, Transformers, verl, DeepSpeed
 - **Tools:** Docker, Git, Jupyter Notebook
 
----
 
-### 💬 Connect with Me
+## 💬 Connect with Me
 
 - **Email:**  [wuky28@mail2.sysu.edu.cn](mailto:wuky28@mail2.sysu.edu.cn) or [marcowky@qq.com](mailto:marcowky@qq.com)
 - **Google Scholar:** [Kaiyu Wu](https://scholar.google.com/citations?user=pwzQQOkAAAAJ)
