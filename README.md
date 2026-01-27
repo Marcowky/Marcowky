@@ -5,7 +5,7 @@
 </h3> -->
 
 <p align="center">
-   🤖 <b>Agents</b> | 🌍 <b>Real-world RL</b> | 🧬 <b>Self-evolution</b>
+   🤖 <b>Agents</b> | 🌍 <b>Real-world RL</b> | 🧬 <b>Self-Evolution</b>
 </p>
 
 <p align="center">
