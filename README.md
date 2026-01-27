@@ -5,7 +5,7 @@
 </h3> -->
 
 <p align="center">
-   🤖 <b>LLM Agents</b> | 🌍 <b>Real-world RL</b> | 🧬 <b>Self-evolution</b>
+   🤖 <b>Agents</b> | 🌍 <b>Real-world RL</b> | 🧬 <b>Self-evolution</b>
 </p>
 
 <p align="center">
@@ -19,18 +19,18 @@
 
 ## 🧐 About Me
 
-I am currently a first-year Master's student at the **School of Computer Science and Engineering, Sun Yat-sen University (SYSU)**, and a member of the **[HCP Lab](https://www.sysu-hcp.net/)**, advised by **Prof. [Keze Wang](https://kezewang.com/)**.
+I am currently a first-year Master's student at the **School of Computer Science and Engineering, Sun Yat-sen University (SYSU)**, and a member of the **[HCP Lab](https://www.sysu-hcp.net/)**, advised by **[Prof. Keze Wang](https://kezewang.com/)**.
 
 🌱 **Status:** I am actively looking for **Research Collaborations** and **Internship Opportunities**. Feel free to reach out!
 
 
 ## 🎓 Research Interests
 
-My primary research centers on **Reinforcement Learning for Large Language Models (LLMs)** in real-world environments. 
+My primary research centers on **Reinforcement Learning (RL) for Visual Language Models (VLMs) and Large Language Models (LLMs)** in real-world environments. 
 
-🎯 **Ultimate Goal:** Enabling LLMs to exist independently in the real world and achieve dynamic **self-evolution**.
+🎯 **Ultimate Goal:** Enabling VLMs and LLMs to exist autonomously in the real world and achieve dynamic **self-evolution**.
 
-Currently, I am focusing on **GUI-Agents** and exploring how agents can interact more effectively with software interfaces.
+Currently, I am focusing on **GUI Agents** and exploring how agents can interact more effectively with software interfaces.
 
 
 ## 📝 Selected Publications
@@ -49,8 +49,8 @@ For a full list of publications, please visit my [Google Scholar](https://schola
 ## 🛠️ Tech Stack & Tools
 
 - **Languages:** Python, C++, Go
-- **Frameworks:** PyTorch, Transformers, verl, DeepSpeed
-- **Tools:** Docker, Git, Jupyter Notebook
+- **Frameworks:** PyTorch, verl, Transformers, DeepSpeed
+- **Tools:** Git, Docker, Jupyter Notebook
 
 
 ## 💬 Connect with Me
