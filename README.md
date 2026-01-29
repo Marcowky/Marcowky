@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Marcowky">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://marcowky.github.io/">
     <img src="https://img.shields.io/badge/Homepage-FF4088?logo=hugo&logoColor=white" alt="Homepage"/>
+  </a>
+  <a href="https://github.com/Marcowky">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://scholar.google.com/citations?user=pwzQQOkAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar"/>
