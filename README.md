@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kaiyu Wu (Marco) 👋</h1>
+<h1 align="center">Hi there, I'm Kaiyu Wu (伍开钰), and I go by Marco. 👋</h1>
 
 <!-- <h3 align="center">
   First-year M.S. Student @ <a href="https://sysu.edu.cn/" target="_blank">Sun Yat-sen University (SYSU)</a>
