@@ -45,7 +45,11 @@ Currently, I am focusing on **GUI Agents** and exploring how agents can interact
   <br> ***Kaiyu Wu**, Pucheng Han, Hualong Zhang, Naigeng Wu, Keze Wang*
   <br> [[Paper Link](https://arxiv.org/abs/2601.14044)] [[Code](https://github.com/Marcowky/Weather-R1)]
 
-- **Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs**
+- **Recurrent Latent Visual Search for GUI Grounding**
+  <br> ***Kaiyu Wu**, Beichen Zheng, Weiyao Huang, Keze Wang*
+  <br> [[Paper Link](https://arxiv.org/abs/2610.05185)]
+
+- **[EMNLP 2026 Findings] Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs**
   <br> *Wentao Wan, **Kaiyu Wu**, Qingyang Ma, Nan Kang, Yunjie Chen, Liang Lin, Keze Wang*
   <br> [[Paper Link](https://arxiv.org/abs/2512.14257)]
 
