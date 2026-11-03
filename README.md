@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kaiyu Wu (伍开钰), and I go by Marco. 👋</h1>
 
 <!-- <h3 align="center">
-  First-year M.S. Student @ <a href="https://sysu.edu.cn/" target="_blank">Sun Yat-sen University (SYSU)</a>
+  M.S. Student @ <a href="https://sysu.edu.cn/" target="_blank">Sun Yat-sen University (SYSU)</a>
 </h3> -->
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🧐 About Me
 
-I am currently a first-year Master's student at the **School of Computer Science and Engineering, Sun Yat-sen University (SYSU)**, and a member of the **[HCP Lab](https://www.sysu-hcp.net/)**, advised by **[Prof. Keze Wang](https://kezewang.com/)**.
+I am a Master's student (2025–2028) at the **School of Computer Science and Engineering, Sun Yat-sen University (SYSU)**, and a member of the **[HCP Lab](https://www.sysu-hcp.net/)**, advised by **[Prof. Keze Wang](https://kezewang.com/)**.
 
 🌱 **Status:** I am actively looking for **Research Collaborations** and **Internship Opportunities**. Feel free to reach out!
 
@@ -41,13 +41,13 @@ Currently, I am focusing on **GUI Agents** and exploring how agents can interact
 
 ## 📝 Selected Publications
 
-- **[ICASSP 2026] Weather-R1: Logically Consistent Reinforcement Fine-Tuning for Multimodal Reasoning in Meteorology**
-  <br> ***Kaiyu Wu**, Pucheng Han, Hualong Zhang, Naigeng Wu, Keze Wang*
-  <br> [[Paper Link](https://arxiv.org/abs/2601.14044)] [[Code](https://github.com/Marcowky/Weather-R1)]
-
 - **Recurrent Latent Visual Search for GUI Grounding**
   <br> ***Kaiyu Wu**, Beichen Zheng, Weiyao Huang, Keze Wang*
   <br> [[Paper Link](https://arxiv.org/abs/2610.05185)]
+
+- **[ICASSP 2026] Weather-R1: Logically Consistent Reinforcement Fine-Tuning for Multimodal Reasoning in Meteorology**
+  <br> ***Kaiyu Wu**, Pucheng Han, Hualong Zhang, Naigeng Wu, Keze Wang*
+  <br> [[Paper Link](https://arxiv.org/abs/2601.14044)] [[Code](https://github.com/Marcowky/Weather-R1)]
 
 - **[EMNLP 2026 Findings] End-to-End Differentiable Optimization of Tool-Augmented Visual Reasoning via Probabilistic Graphs**
   <br> *Wentao Wan, **Kaiyu Wu**, Qingyang Ma, Nan Kang, Yunjie Chen, Liang Lin, Keze Wang*
@@ -56,11 +56,12 @@ Currently, I am focusing on **GUI Agents** and exploring how agents can interact
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=pwzQQOkAAAAJ).
 
 
-## 🛠️ Tech Stack & Tools
+<!-- ## 🛠️ Tech Stack & Tools
 
 - **Languages:** Python, C++, Go
-- **Frameworks:** PyTorch, verl, Transformers, DeepSpeed
-- **Tools:** Git, Docker, Jupyter Notebook
+- **Training & Inference:** PyTorch, Transformers, DeepSpeed, verl / EasyR1 (GRPO), vLLM
+- **Agents:** DeepAgents
+- **Tools:** Git, Docker -->
 
 
 ## 💬 Connect with Me
