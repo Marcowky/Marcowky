@@ -49,9 +49,9 @@ Currently, I am focusing on **GUI Agents** and exploring how agents can interact
   <br> ***Kaiyu Wu**, Beichen Zheng, Weiyao Huang, Keze Wang*
   <br> [[Paper Link](https://arxiv.org/abs/2610.05185)]
 
-- **[EMNLP 2026 Findings] Enhancing Visual Programming for Visual Reasoning via Probabilistic Graphs**
+- **[EMNLP 2026 Findings] End-to-End Differentiable Optimization of Tool-Augmented Visual Reasoning via Probabilistic Graphs**
   <br> *Wentao Wan, **Kaiyu Wu**, Qingyang Ma, Nan Kang, Yunjie Chen, Liang Lin, Keze Wang*
-  <br> [[Paper Link](https://arxiv.org/abs/2512.14257)]
+  <br> [[Paper Link](https://aclanthology.org/2026.findings-emnlp.2444/)] [[Code](https://github.com/RodeWayne/eDoT)]
 
 For a full list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=pwzQQOkAAAAJ).
 
