@@ -5,7 +5,7 @@
 </h3> -->
 
 <p align="center">
-   🤖 <b>Agents</b> | 🌍 <b>Real-world RL</b> | 🧬 <b>Self-Evolution</b>
+   🌍 <b>Real-world Agents</b> | 🤖 <b>Autonomy</b> | 🧬 <b>Self-Evolution</b>
 </p>
 
 <p align="center">
@@ -32,11 +32,9 @@ I am a Master's student (2025–2028) at the **School of Computer Science and En
 
 ## 🎓 Research Interests
 
-My primary research centers on **Reinforcement Learning (RL) for Visual Language Models (VLMs) and Large Language Models (LLMs)** in real-world environments. 
+My primary research centers on **multimodal post-training and agents**, with a focus on building **reliable supervision and evaluation signals**: trajectory supervision for latent visual search in GUI grounding, consistency rewards for multimodal reasoning, and rubric-based evaluation for open-ended agent reports.
 
-🎯 **Ultimate Goal:** Enabling VLMs and LLMs to exist autonomously in the real world and achieve dynamic **self-evolution**.
-
-Currently, I am focusing on **GUI Agents** and exploring how agents can interact more effectively with software interfaces.
+🎯 **Ultimate Goal:** Agents that exist in the real world as independent individuals, completing tasks autonomously and continually evolving themselves.
 
 
 ## 📝 Selected Publications
